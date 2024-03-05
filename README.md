@@ -23,4 +23,6 @@ In the third and last phase, exploitation of the vulnerabilities identified in L
 
   The Sensor networks.zip file contains a project, the purpose of which is to create software in python language, which can read measurements from a smart network device via MQTT server, send commands to it, and display a graph with the results.
 
+  The file Artificial Intelligence.zip contains a Search Algorithms exercise, in python, in the context of the course "Artificial Intelligence".
+
   
