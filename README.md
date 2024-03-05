@@ -21,4 +21,6 @@ In the third and last phase, exploitation of the vulnerabilities identified in L
 
   The Databases Projects.zip file has two folders, each of which contains a project on creating, analyzing and managing a database based on different case scenarios.
 
+  The Sensor networks.zip file contains a project, the purpose of which is to create software in python language, which can read measurements from a smart network device via MQTT server, send commands to it, and display a graph with the results.
+
   
