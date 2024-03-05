@@ -14,4 +14,9 @@ Each folder contains the pdf file with the pronunciations of the exercises, as w
 
   The Computer Architecture.zip file contains a series of folders depicting labs from the "Computer Architecture" course. (Programming Language Course in Assembly)
 
-  
+  Cyber Security Projects.zip contains two three-phase projects. 
+In the first phase, a LINUX operating system server is installed and configured, and the necessary security checks and fortification are performed.
+In the second phase, risk analysis and risk management in a company environment (different in each scenario) is performed.
+In the third and last phase, exploitation of the vulnerabilities identified in LINUX and WINDOWS operating systems is performed.
+
+    
