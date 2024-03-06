@@ -25,4 +25,5 @@ In the third and last phase, exploitation of the vulnerabilities identified in L
 
   The file Artificial Intelligence.zip contains a Search Algorithms exercise, in python, in the context of the course "Artificial Intelligence".
 
-  
+  The file Data structures.zip consists of three folders, each of which has a set of exercises with their implementations in C programming language, in the context of the course "Data Structures".
+
