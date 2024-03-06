@@ -30,4 +30,6 @@ In the third and last phase, exploitation of the vulnerabilities identified in L
   The file Design and Development of Mobile Computing Applications.zip contains a README file with the link corresponding to the projects uploaded to Google Drive. The files exceeded the github limit, so I couldn't upload them directly.
   The drive contains two zip files, one project and one laboratory exercise, in the context of the course "Design and Development of Mobile Computing Applications". The project has the topic "Renewable Energy stations mapping: development of an application for managing applications for renewable energy stations" and the lab exercise asks for the conversion of a given web page, into a corresponding web page exclusively for a mobile device website.
 
+  The Internet programming.zip file contains three projects in the context of the homonymous course.
 
+  The Cryptography.zip file contains a series of excersises in the context of the homonymous course.
